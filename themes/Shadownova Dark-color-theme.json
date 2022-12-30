@@ -1,18 +1,20 @@
 {
   "name": "Shadownova Dark",
     "$schema": "vscode://schemas/color-theme",
+    "displayName": "Shadownova Dark",
     "type": "dark",
+    "version": "1.0.0",
     "publisher": "SupernovaStudios",
     "repository": {
         "type": "git",
-        "url": ""
+        "url": "https://github.com/shadownova12/Shadownova-Dark.git"
     },
     "keywords": [
         "theme",
         "dark theme",
         "shadownova",
         "supernova",
-        "shadownova dark"
+        "shadownova dark",
     ],
     "colors": {
       // "activityBarBadge.background": "#007acc",

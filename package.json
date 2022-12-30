@@ -1,21 +1,34 @@
 {
-  "name": "shadownova-dark",
-  "displayName": "Shadownova Dark",
-  "description": "Shadownova's dark theme",
-  "version": "0.0.1",
-  "engines": {
-    "vscode": "^1.74.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Shadownova Dark",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Shadownova Dark-color-theme.json"
-      }
-    ]
+    "name": "shadownova-dark",
+    "displayName": "Shadownova Dark",
+    "description": "Shadownova's dark theme",
+    "publisher": "SupernovaStudios",
+    "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/shadownova12/Shadownova-Dark.git"
+    },
+    "engines": {
+      "vscode": "^1.74.0"
+    },
+    "keywords": [
+      "theme",
+      "dark theme",
+      "shadownova",
+      "supernova",
+      "shadownova dark",
+      "SupernovaStudios"
+    ],
+    "categories": [
+      "Themes"
+    ],
+    "contributes": {
+      "themes": [
+        {
+          "label": "Shadownova Dark",
+          "uiTheme": "vs-dark",
+          "path": "./themes/Shadownova Dark-color-theme.json"
+        }
+      ]
+    }
   }
-}
