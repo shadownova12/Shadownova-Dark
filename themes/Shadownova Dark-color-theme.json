@@ -240,8 +240,8 @@
       
       "statusBar.background": "#340022",
       "statusBar.border": "#070B1760",
-      "statusBar.debuggingBackground": "#36F1D2",
-      "statusBar.debuggingForeground": "#05CAFF",
+      "statusBar.debuggingBackground": "#d81208",
+      "statusBar.debuggingForeground": "#f0f0f0",
       "statusBar.foreground": "#CFCFCF",
       "statusBar.noFolderBackground": "#070B17",
       
